@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielMelendezz
+- 👋 Hi, I’m Daniel Melendez
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning node.js and data strutures in python
 - 💞️ I’m looking to collaborate on backend for websites
